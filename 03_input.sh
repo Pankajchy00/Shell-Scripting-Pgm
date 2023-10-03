@@ -12,3 +12,7 @@ echo "your name is: " $name
 
 read -p "Enter your age: " age
 echo "your age is: " $age
+
+read -p "user name " Username
+read -sp "Password " password
+echo "username: " $Username "Password: " $password
