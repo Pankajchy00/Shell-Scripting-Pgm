@@ -1,0 +1,1 @@
+this is the txt file created with the help of command substitution methed
